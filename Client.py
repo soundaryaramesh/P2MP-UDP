@@ -64,8 +64,6 @@ else:
 	while(data):
 		
 		a=addr[:]
-	
-		#print "list is ", a
 		data=curr_seq+data
 		host_resp=0
 		while(len(a) is not 0):
