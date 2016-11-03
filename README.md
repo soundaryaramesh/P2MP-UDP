@@ -1,4 +1,4 @@
-# Peer to MultiPoint Communication using User-datagram Protocol  
+# Peer to MultiPoint Communication using User Datagram Protocol  
 ##Usage
 The P2MP-UDP implements data transfer from a single client to multiple servers.
 The server should run before any of the clients.
